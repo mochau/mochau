@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Michael Chau
-- 👀 I’m interested in building cool stuff on the cloud
-- 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me michaelchau97@gmail.com
+- 👋  Hi, I’m Michael Chau
+- 👀  I’m interested in building cool stuff on the cloud
+- 🌱  I’m currently learning front-end web development
+- 💞️  I’m looking to collaborate on anything!
+- 📫  Reach me at michaelchau97@gmail.com
